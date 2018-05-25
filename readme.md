@@ -1,5 +1,5 @@
 Installation :
-Dont forget to composer install and npm install
+Dont forget to run composer install and npm install
 
 :)
 
