@@ -1,3 +1,9 @@
+Installation :
+Dont forget to composer install and npm install
+
+:)
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
