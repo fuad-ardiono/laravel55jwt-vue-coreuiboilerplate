@@ -1,5 +1,11 @@
 Installation :
-Dont forget to run composer install and npm install
+1. run cp env.example .env
+2. set up your .env
+3. run php artisan key:generate
+4. run composer install
+5. run php artisan jwt:secret
+6. run npm install
+7. Happy coding
 
 :)
 
